@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Webpack Demo for setting up a basic React app from scratch",
   "scripts": {
-    "start-dev": "nodemon server/index.js",
+    "start": "nodemon server/index.js",
     "react-dev": "webpack -w"
   },
   "author": "Julie Barwick",

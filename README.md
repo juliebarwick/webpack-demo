@@ -1,7 +1,7 @@
 # Demo for setting up webpack
 for a basic React app created *without* `create-react-app`
 
-## Docs referenced:
+## Docs referenced
 * Express server set-up: https://expressjs.com/en/starter/hello-world.html
 * Express serve static files: https://expressjs.com/en/starter/static-files.html
 * Webpack getting started: https://webpack.js.org/guides/getting-started/
