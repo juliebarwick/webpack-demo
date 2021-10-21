@@ -1,5 +1,5 @@
 # Demo for setting up webpack
-for a basic React app created without create-react-app
+for a basic React app created *without* `create-react-app`
 
 ## Docs referenced:
 * Express server set-up: https://expressjs.com/en/starter/hello-world.html
